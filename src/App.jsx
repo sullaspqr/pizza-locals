@@ -21,7 +21,7 @@ return (
             <div className="card-body">
               <img className="img-fluid" 
               src={pizza.kepURL ? pizza.kepURL : "https://via.placeholder.com/400x800"} 
-              alt="pizza-helyettesítő szöveg"/>
+              alt="pizza-helyettesítendő szöveg"/>
             </div>
         </div>
       ))}
